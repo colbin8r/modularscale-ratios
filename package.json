@@ -1,6 +1,6 @@
 {
   "name": "modularscale-ratios",
-  "version": "1.0.0",
+  "version": "1.0.0-rc1",
   "description": "A collection of ratios to use with modular scales",
   "main": "index.js",
   "repository": {
@@ -12,7 +12,7 @@
     "modular",
     "scale",
   ],
-  "author": "Colby Rogness",
+  "author": "Colby Rogness <colbyrogness@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/colbin8r/modularscale-ratios/issues"
