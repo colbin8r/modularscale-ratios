@@ -1,0 +1,21 @@
+{
+  "name": "modularscale-ratios",
+  "version": "1.0.0",
+  "description": "A collection of ratios to use with modular scales",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colbin8r/modularscale-ratios.git"
+  },
+  "keywords": [
+    "ratio",
+    "modular",
+    "scale",
+  ],
+  "author": "Colby Rogness",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colbin8r/modularscale-ratios/issues"
+  },
+  "homepage": "https://github.com/colbin8r/modularscale-ratios#readme"
+}
